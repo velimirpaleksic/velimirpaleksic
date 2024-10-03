@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome to Velimir Paleksić's GitHub!
 
-<!--
-**velimirpaleksic/velimirpaleksic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am passionate about software development, automation, and security. I enjoy building tools and utilities in various programming languages.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: C#, Python, Javascript, SQL, PHP
+- **Frameworks**: .NET Framework, .NET Core
+- **Tools**: Visual Studio, Visual Studio Code, Wireshark, Burp Suite Community, Nmap
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=velimirpaleksic&show_icons=true&theme=radical)
