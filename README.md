@@ -1,8 +1,5 @@
 # 👋 Welcome to Velimir Paleksić's GitHub!
 
-## 🚀 About Me
-I am passionate about software development, automation, and security. I enjoy building tools and utilities in various programming languages.
-
 ## 🔧 Technologies & Tools
 
 - **Languages**: C#, Python, Javascript, SQL, PHP
