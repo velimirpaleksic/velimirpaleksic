@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey! 👋
+I'm Velimir Paleksić, a Full-stack developer and security enthusiast.
 
-<!--
-**velimirpaleksic/velimirpaleksic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- CEO of [VexSystems](https://github.com/vexsystems)
 
-Here are some ideas to get you started:
+## **Skills** ⚙
+- 👨‍💻 JavaScript, PHP, C#, Python, etc...
+- ⚙️ Wordpress, PowerShell
+- 👀 Photoshop, CSS
+- 💿 MySQL
+- 📦 Burp Suite, Nmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Learning** 🧠
+- Currently learning React & Lua.
+
+## **Contact** ✉
+- E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
+- VexSystems GitHub: [github.com/vexsystems](https://github.com/vexsystems).
+- VexSystems Instagram: [@vex.systems](https://www.instagram.com/vex.systems/).
