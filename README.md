@@ -13,7 +13,7 @@
 - Currently learning React & Lua.
 
 ## **Check out my work** 💻
-- [All repositories](https://github.com/velimirpaleksic/repositories)
+- [All repositories](https://github.com/velimirpaleksic/all-repositories)
 
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
