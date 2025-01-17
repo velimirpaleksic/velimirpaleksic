@@ -1,7 +1,6 @@
 ## Hey! 👋
-I'm Velimir Paleksić, a Full-stack developer and security enthusiast.
-
-- CEO of [VexSystems](https://github.com/vexsystems)
+- I'm Velimir Paleksić, a Full-stack developer and security enthusiast.
+- CEO of [VexSystems](https://github.com/vexsystems).
 
 ## **Skills** ⚙
 - 👨‍💻 JavaScript, PHP, C#, Python, etc...
