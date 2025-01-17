@@ -2,6 +2,9 @@
 - I'm Velimir Paleksić, a Full-stack developer and security enthusiast.
 - CEO of [VexSystems](https://github.com/vexsystems).
 
+## **Check out my work** 💻
+- [All repositories](https://github.com/velimirpaleksic/all-repositories)
+
 ## **Skills** ⚙
 - 👨‍💻 JavaScript, PHP, C#, Python, etc...
 - ⚙️ Wordpress, PowerShell
@@ -11,9 +14,6 @@
 
 ## **Learning** 🧠
 - Currently learning React & Lua.
-
-## **Check out my work** 💻
-- [All repositories](https://github.com/velimirpaleksic/all-repositories)
 
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
