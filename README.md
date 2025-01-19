@@ -6,8 +6,8 @@
 - [All repositories](https://github.com/velimirpaleksic/all-repositories)
 
 ## **Skills** ⚙
-- 👨‍💻 JavaScript, PHP, C#, Python, etc...
-- ⚙️ Wordpress, PowerShell
+- 👨‍💻 JavaScript, C#, Python
+- ⚙️ Wordpress, PHP
 - 👀 Photoshop, CSS
 - 💿 MySQL
 - 📦 Burp Suite, Nmap
