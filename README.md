@@ -5,6 +5,13 @@
 ## **Check out my work** 💻
 - [All repositories](https://github.com/velimirpaleksic/all-repositories)
 
+Honorable mention:
+1. [Portfolio (Web Development)](https://github.com/velimirpaleksic/portfolio)
+2. [Sapphire (Web Development)](https://github.com/VexSystems/sapphire)
+3. [Telegram RAT (Cybersecurity)](https://github.com/velimirpaleksic/telegram-rat)
+4. [Discord Token Stealer C# (Cybersecurity)](https://github.com/velimirpaleksic/discord-token-stealer-csharp)
+5. [Bulk Youtube to MP3 (Utility Tools)](https://github.com/velimirpaleksic/bulk-youtube-to-mp3)
+
 ## **Skills** ⚙
 - 👨‍💻 JavaScript, C#, Python
 - ⚙️ Wordpress, PHP
