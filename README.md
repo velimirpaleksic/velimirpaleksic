@@ -13,14 +13,14 @@ Honorable mention:
 5. [Bulk Youtube to MP3 (Utility Tools)](https://github.com/velimirpaleksic/bulk-youtube-to-mp3)
 
 ## **Skills** ⚙
-- 👨‍💻 JavaScript, C#, Python
-- ⚙️ Wordpress, PHP
-- 👀 Photoshop, CSS
-- 💿 MySQL
-- 📦 Burp Suite, Nmap
+- 👨‍💻 Programming Languages: JavaScript, C#, Python
+- ⚙️ Web Development: WordPress, CSS
+- 👀 Design Tools: Photoshop
+- 💿 Databases: MySQL
+- 📦 Security Tools: Burp Suite, Nmap
 
 ## **Learning** 🧠
-- Currently learning React & Lua.
+- Currently learning React.
 
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
