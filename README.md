@@ -13,11 +13,11 @@ Honorable mention:
 5. [Bulk Youtube to MP3 (Utility Tools)](https://github.com/velimirpaleksic/bulk-youtube-to-mp3)
 
 ## **Skills** ⚙  
-- 👨‍💻 **Programming Languages**: JavaScript, C#, Python  
-- ⚙️ **Web Development**: WordPress  
-- 🔍 **Digital Marketing**: SEO  
-- 👀 **Design Tools**: Adobe Photoshop  
-- 💿 **Databases**: MySQL  
+- 👨‍💻 **Programming Languages**: JavaScript, C#, Python
+- ⚙️ **Web Development**: WordPress
+- 🔍 **Digital Marketing**: SEO
+- 👀 **Design Tools**: Adobe Photoshop
+- 💿 **Databases**: MySQL
 - 📦 **Security Tools**: Burp Suite, Nmap
 
 ## **Learning** 🧠
