@@ -6,7 +6,7 @@
 ### Web Development
 1. [Sapphire Website (Web Development)](https://github.com/velimirpaleksic/sapphire-website)
 2. [Pavle Detailing (Web Development)](https://github.com/velimirpaleksic/pavle-detailing)
-3. [Osnovna Škola Sveti Sava (Elementary School Saint Sava) (Web Development)](https://github.com/velimirpaleksic/osnovna-skola-sveti-sava)
+3. [Osnovna Škola Sveti Sava (Elementary School Saint Sava) (Web Development)](https://github.com/velimirpaleksic/osnovna-skola-sveti-sava-website)
 
 ### Cybersecurity
 4. [Telegram RAT (Cybersecurity)](https://github.com/velimirpaleksic/telegram-rat)
