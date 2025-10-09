@@ -1,26 +1,35 @@
-# Hey! 👋
-- I'm Velimir Paleksić, a **developer and designer**.
-- I **build websites, apps, and tools** that are simple and useful.
+# About me 🛠️
+- I'm Velimir - I build small, practical tools and web projects.
+- I focus on building clean, fast and efficient solutions.
 
-## **Check out my work** 💻
-### Web Development
+## Check out my work 💻
+### Currently Working On 🧩
+### [Raspberry Pi Print Server](https://github.com/velimirpaleksic/Raspberry-Pi)
+
+- Automates the generation and instant printing of school certificates directly from a Raspberry Pi.
+- Built for speed and simplicity, reducing manual document tasks to a few clicks.
+
+### Web Development 🌐
 1. [Sapphire Website](https://github.com/velimirpaleksic/sapphire-website)
 2. [Pavle Detailing](https://github.com/velimirpaleksic/pavle-detailing)
 3. [Osnovna Škola Sveti Sava (Elementary School Saint Sava)](https://github.com/velimirpaleksic/osnovna-skola-sveti-sava-website)
 
-### Cybersecurity
+### Cybersecurity 🔒
 4. [Telegram RAT](https://github.com/velimirpaleksic/telegram-rat)
 5. [Discord Token Stealer Python](https://github.com/velimirpaleksic/discord-token-stealer-python)
 6. [Discord Token Stealer CSharp](https://github.com/velimirpaleksic/discord-token-stealer-csharp)
 
-### Utility
+### Utility 🔧
 7. [Take File Folder Ownership Context Menu](https://github.com/velimirpaleksic/take-file-folder-ownership-context-menu)
 8. [264 to MP4 Context Menu](https://github.com/velimirpaleksic/264-to-mp4-context-menu)
 9. [Activate Windows 10 via CMD](https://github.com/velimirpaleksic/activate-windows-10-via-cmd)
 
-## **Skills** ⚙  
+## Skills ⚙  
 - 👨‍💻 **Programming Languages**: JavaScript, C#, Python
-- ⚙️ **Web Development**: WordPress, HTML, CSS
+- 🌐 **Web Development**: WordPress, HTML, CSS
 - 🔍 **Digital Marketing**: SEO, Google Ads, Meta Ads
-- 👀 **Design Tools**: Adobe Creative Cloud
-- 💿 **Databases**: MySQL, MariaDB
+- 🎨 **Design Tools**: Adobe Creative Cloud
+- 💾 **Databases**: MySQL, MariaDB
+
+## Contact 📬
+- 📸 Instagram: [@velimirpaleksic](https://instagram.com/velimirpaleksic)
