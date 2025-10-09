@@ -29,4 +29,4 @@ jobs:
           author_email: actions@github.com
           message: chore update chess.com stats
           add: 'README.md'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
