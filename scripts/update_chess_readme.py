@@ -7,7 +7,12 @@ START = "<!--chess-stats-start-->"
 END = "<!--chess-stats-end-->"
 
 def fetch_json(url):
-    r = requests.get(url, timeout=10)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/114.0.0.0 Safari/537.36"
+    }
+    r = requests.get(url, headers=headers, timeout=10)
     r.raise_for_status()
     return r.json()
 
