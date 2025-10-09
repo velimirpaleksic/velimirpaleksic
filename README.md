@@ -3,6 +3,15 @@
 - I focus on building clean, fast and efficient solutions.
 
 <!--chess-stats-start-->
+### ♟️ Chess.com
+**velimirpaleksic** — live ratings (via Chess.com API)
+
+| Variant | Rating |
+|---:|:---:|
+| Blitz | — |
+| Rapid | — |
+| Bullet | — |
+| Daily | — |
 <!--chess-stats-end-->
 
 ## Check out my work 💻
