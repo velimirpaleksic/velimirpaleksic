@@ -3,6 +3,17 @@
 - I focus on building clean, fast and efficient solutions.
 
 <!--chess-stats-start-->
+### ♟️ Chess.com Stats
+
+| Variant | Rating | Best Game |
+|---------|-------:|----------|
+| Daily | — | — |
+| Rapid | — | — |
+| Bullet | — | — |
+| Blitz | — | — |
+
+Puzzle Rush Best Score: —
+Highest Tactics Rating: —
 <!--chess-stats-end-->
 
 ## Check out my work 💻
