@@ -4,11 +4,16 @@ on:
     - cron: '0 6 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -24,3 +29,4 @@ jobs:
           author_email: actions@github.com
           message: chore update chess.com stats
           add: 'README.md'
+          token: ${{ secrets.GITHUB_TOKEN }}
