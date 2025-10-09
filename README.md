@@ -2,6 +2,9 @@
 - I'm Velimir - I build small, practical tools and web projects.
 - I focus on building clean, fast and efficient solutions.
 
+<!--chess-stats-start-->
+<!--chess-stats-end-->
+
 ## Check out my work 💻
 ### Currently Working On 🧩
 ### [Raspberry Pi Print Server](https://github.com/velimirpaleksic/Raspberry-Pi)
