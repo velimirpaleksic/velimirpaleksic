@@ -3,25 +3,18 @@
 - I focus on building clean, fast and efficient solutions.
 
 <!--chess-stats-start-->
-### ♟️ Chess.com Stats
-
-| Variant | Rating | Best Game |
-|---------|-------:|----------|
-| Daily | 1305 | [Link](https://www.chess.com/game/daily/506139845) |
-| Rapid | 1875 | [Link](https://www.chess.com/game/live/105978534549) |
-| Bullet | 1749 | [Link](https://www.chess.com/game/live/76450752495) |
-| Blitz | 1888 | [Link](https://www.chess.com/game/live/77400686369) |
-
-Puzzle Rush Best Score: 30
-Highest Tactics Rating: 1768
 <!--chess-stats-end-->
 
-## Check out my work 💻
+<br>
+
+# Check out my work 💻
 ### Currently Working On 🧩
 ### [Raspberry Pi Print Server](https://github.com/velimirpaleksic/Raspberry-Pi)
 
 - Automates the generation and instant printing of school certificates directly from a Raspberry Pi.
 - Built for speed and simplicity, reducing manual document tasks to a few clicks.
+
+---
 
 ### Web Development 🌐
 1. [Sapphire Website](https://github.com/velimirpaleksic/sapphire-website)
@@ -38,12 +31,16 @@ Highest Tactics Rating: 1768
 8. [264 to MP4 Context Menu](https://github.com/velimirpaleksic/264-to-mp4-context-menu)
 9. [Activate Windows 10 via CMD](https://github.com/velimirpaleksic/activate-windows-10-via-cmd)
 
-## Skills ⚙  
+<br>
+
+# Skills ⚙  
 - 💻 **Programming Languages**: JavaScript, C#, Python
 - 🌐 **Web Development**: WordPress, HTML, CSS
 - 🔍 **Digital Marketing**: SEO, Google Ads, Meta Ads
 - 🎨 **Design Tools**: Adobe Creative Cloud
 - 💾 **Databases**: MySQL, MariaDB
 
-## Contact 📬
+<br>
+
+# Contact 📬
 - 📸 Instagram: [@velimirpaleksic](https://instagram.com/velimirpaleksic)
