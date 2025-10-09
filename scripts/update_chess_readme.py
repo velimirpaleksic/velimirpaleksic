@@ -39,7 +39,7 @@ def create_markdown(stats):
     tactics_rating = tactics.get('highest', {}).get('rating', '—')
 
     md.append(f"\nPuzzle Rush Best Score: {puzzle_score}")
-    md.append(f"Highest Tactics Rating: {tactics_rating}")
+    md.append(f"\nHighest Tactics Rating: {tactics_rating}")
 
     return "\n".join(md) + "\n"
 
