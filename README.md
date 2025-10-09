@@ -25,7 +25,7 @@
 9. [Activate Windows 10 via CMD](https://github.com/velimirpaleksic/activate-windows-10-via-cmd)
 
 ## Skills ⚙  
-- 👨‍💻 **Programming Languages**: JavaScript, C#, Python
+- 💻 **Programming Languages**: JavaScript, C#, Python
 - 🌐 **Web Development**: WordPress, HTML, CSS
 - 🔍 **Digital Marketing**: SEO, Google Ads, Meta Ads
 - 🎨 **Design Tools**: Adobe Creative Cloud
