@@ -38,14 +38,18 @@ def create_markdown(stats):
 
     return "\n".join(md) + "\n"
 
-def update_readme(content):
+def update_readme(chess_md):
     pattern = re.compile(re.escape(START) + ".*?" + re.escape(END), re.DOTALL)
-    new_block = f"{START}\n{content}{END}"
-    if pattern.search(content):
-        return pattern.sub(new_block, content)
+    new_block = f"{START}\n{chess_md}{END}"
+    if pattern.search(open(README).read()):
+        with open(README, "r", encoding="utf-8") as f:
+            text = f.read()
+        return pattern.sub(new_block, text)
     else:
         # append if markers not present
-        return content + "\n" + new_block
+        with open(README, "r", encoding="utf-8") as f:
+            text = f.read()
+        return text + "\n" + new_block
 
 def main():
     try:
@@ -60,9 +64,9 @@ def main():
         with open(README, "r", encoding="utf-8") as f:
             readme_text = f.read()
     else:
-        readme_text = f"{START}\n{END}\n"
+        readme_text = ""
 
-    updated_text = update_readme(readme_text)
+    updated_text = update_readme(md_content)
 
     with open(README, "w", encoding="utf-8") as f:
         f.write(updated_text)
