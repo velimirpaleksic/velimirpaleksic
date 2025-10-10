@@ -3,7 +3,7 @@
 - I focus on building clean, fast and efficient solutions.
 
 <!--chess-stats-start-->
-### ♟️ Chess.com Stats
+## ♟️ Chess.com Stats
 
 | Variant | Rating | Best Game |
 |---------|-------:|----------|
@@ -17,7 +17,7 @@ Puzzle Rush Best Score: 30
 Highest Tactics Rating: 1768
 <!--chess-stats-end-->
 
-# GitHub Stats 📊
+## GitHub Stats 📊
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=velimirpaleksic&theme=github_dark)
 
 <br>
