@@ -17,6 +17,10 @@ Puzzle Rush Best Score: 30
 Highest Tactics Rating: 1768
 <!--chess-stats-end-->
 
+# GitHub Stats 📊
+![Velimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=velimirpaleksic&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velimirpaleksic&layout=compact&theme=github_dark)
+
 <br>
 
 # Check out my work 💻
