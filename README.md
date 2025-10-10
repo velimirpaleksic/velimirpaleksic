@@ -3,7 +3,7 @@
 - I focus on building clean, fast and efficient solutions.
 
 <!--chess-stats-start-->
-## ♟️ Chess.com Stats
+### ♟️ Chess.com Stats
 
 | Variant | Rating | Best Game |
 |---------|-------:|----------|
@@ -14,7 +14,7 @@
 
 Puzzle Rush Best Score: 30
 
-Highest Tactics Rating: 1768
+Highest Tactics Rating: 1685
 <!--chess-stats-end-->
 
 ## GitHub Stats 📊
