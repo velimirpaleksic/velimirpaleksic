@@ -32,10 +32,10 @@ Highest Tactics Rating: 1685
 ---
 
 ### Web Development 🌐
-1. [Sveti Petar Dabrobosanski (Saint Peter Dabar-Bosnian)](https://dabrobosanski.org/)
-2. [Sapphire Website](https://github.com/velimirpaleksic/sapphire-website)
-3. [Pavle Detailing](https://github.com/velimirpaleksic/pavle-detailing)
-4. [Osnovna Škola Sveti Sava (Elementary School Saint Sava)](https://github.com/velimirpaleksic/osnovna-skola-sveti-sava-website)
+1. [Sveti Petar Dabrobosanski (Saint Peter Dabar-Bosnian)](https://github.com/velimirpaleksic/Dabrobosanski.org-ss28.juni) - [Live Website](https://dabrobosanski.org/)
+2. [Sapphire Website](https://github.com/velimirpaleksic/sapphire-website) - [Live Website](https://velimirpaleksic.github.io/Sapphire-Website/)
+3. [Pavle Detailing](https://github.com/velimirpaleksic/pavle-detailing) - [Live Website](https://velimirpaleksic.github.io/pavle-detailing/)
+4. [Osnovna Škola Sveti Sava (Elementary School Saint Sava)](https://github.com/velimirpaleksic/osnovna-skola-sveti-sava-website) - [Live Website](https://velimirpaleksic.github.io/Osnovna-Skola-Sveti-Sava-Website/)
 
 ### Cybersecurity 🔒
 5. [Telegram RAT](https://github.com/velimirpaleksic/telegram-rat)
@@ -46,6 +46,7 @@ Highest Tactics Rating: 1685
 8. [Take File Folder Ownership Context Menu](https://github.com/velimirpaleksic/take-file-folder-ownership-context-menu)
 9. [264 to MP4 Context Menu](https://github.com/velimirpaleksic/264-to-mp4-context-menu)
 10. [Activate Windows 10 via CMD](https://github.com/velimirpaleksic/activate-windows-10-via-cmd)
+
 
 <br>
 
