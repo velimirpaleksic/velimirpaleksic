@@ -45,7 +45,6 @@ Highest Tactics Rating: 1685
 ### Utility 🔧
 8. [Take File Folder Ownership Context Menu](https://github.com/velimirpaleksic/take-file-folder-ownership-context-menu)
 9. [264 to MP4 Context Menu](https://github.com/velimirpaleksic/264-to-mp4-context-menu)
-10. [Activate Windows 10 via CMD](https://github.com/velimirpaleksic/activate-windows-10-via-cmd)
 
 
 <br>
