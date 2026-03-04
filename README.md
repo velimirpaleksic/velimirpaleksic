@@ -1,6 +1,6 @@
-# About me 🛠️
-- I'm Velimir - I build small, practical tools and web projects.
-- I focus on building clean, fast and efficient solutions.
+# About Me 🛠️
+- I build small, practical software tools that automate real-world workflows.
+- Focused on speed, simplicity, and eliminating repetitive manual tasks.
 
 <!--chess-stats-start-->
 ### ♟️ Chess.com Stats
@@ -22,39 +22,46 @@ Highest Tactics Rating: 1685
 
 <br>
 
-# Check out my work 💻
-### Currently Working On 🧩
+## Currently Working On 🧩
 ### [Raspberry Pi Print Server](https://github.com/velimirpaleksic/Raspberry-Pi)
 
-- Automates the generation and instant printing of school certificates directly from a Raspberry Pi.
-- Built for speed and simplicity, reducing manual document tasks to a few clicks.
+- Automates document generation and instant certificate printing via Raspberry Pi
+- Lightweight, local-first architecture for reliability
+- Reduces administrative processing time to a few clicks
 
 ---
 
+## Selected Projects 💻
 ### Web Development 🌐
 1. [Sveti Petar Dabrobosanski (Saint Peter Dabar-Bosnian)](https://github.com/velimirpaleksic/Dabrobosanski.org-ss28.juni) - [Live Website](https://dabrobosanski.org/)
 2. [Sapphire Website](https://github.com/velimirpaleksic/sapphire-website) - [Live Website](https://velimirpaleksic.github.io/Sapphire-Website/)
 3. [Pavle Detailing](https://github.com/velimirpaleksic/pavle-detailing) - [Live Website](https://velimirpaleksic.github.io/pavle-detailing/)
 4. [Osnovna Škola Sveti Sava (Elementary School Saint Sava)](https://github.com/velimirpaleksic/osnovna-skola-sveti-sava-website) - [Live Website](https://velimirpaleksic.github.io/Osnovna-Skola-Sveti-Sava-Website/)
 
-### Cybersecurity 🔒
-5. [Telegram RAT](https://github.com/velimirpaleksic/telegram-rat)
-6. [Discord Token Stealer Python](https://github.com/velimirpaleksic/discord-token-stealer-python)
-7. [Discord Token Stealer CSharp](https://github.com/velimirpaleksic/discord-token-stealer-csharp)
-
 ### Utility 🔧
-8. [Take File Folder Ownership Context Menu](https://github.com/velimirpaleksic/take-file-folder-ownership-context-menu)
-9. [264 to MP4 Context Menu](https://github.com/velimirpaleksic/264-to-mp4-context-menu)
-
+6. [Take File Folder Ownership Context Menu](https://github.com/velimirpaleksic/take-file-folder-ownership-context-menu)
+7. [264 to MP4 Context Menu](https://github.com/velimirpaleksic/264-to-mp4-context-menu)
 
 <br>
 
-# Skills ⚙  
-- 💻 **Programming Languages**: JavaScript, C#, Python
-- 🌐 **Web Development**: WordPress, HTML, CSS
-- 🔍 **Digital Marketing**: SEO, Google Ads, Meta Ads
-- 🎨 **Design Tools**: Adobe Creative Cloud
-- 💾 **Databases**: MySQL, MariaDB
+## Skills ⚙
+**Programming**
+- JavaScript
+- C#
+- Python
+
+**Web**
+- HTML, CSS
+- WordPress
+
+**Automation & Systems**
+- Raspberry Pi
+- Workflow automation
+- Print systems
+
+**Databases**
+- MySQL
+- MariaDB
 
 <br>
 
