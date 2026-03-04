@@ -39,8 +39,8 @@ Highest Tactics Rating: 1685
 4. [Osnovna Škola Sveti Sava (Elementary School Saint Sava)](https://github.com/velimirpaleksic/osnovna-skola-sveti-sava-website) - [Live Website](https://velimirpaleksic.github.io/Osnovna-Skola-Sveti-Sava-Website/)
 
 ### Utility 🔧
-6. [Take File Folder Ownership Context Menu](https://github.com/velimirpaleksic/take-file-folder-ownership-context-menu)
-7. [264 to MP4 Context Menu](https://github.com/velimirpaleksic/264-to-mp4-context-menu)
+5. [Take File Folder Ownership Context Menu](https://github.com/velimirpaleksic/take-file-folder-ownership-context-menu)
+6. [264 to MP4 Context Menu](https://github.com/velimirpaleksic/264-to-mp4-context-menu)
 
 <br>
 
