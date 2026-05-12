@@ -55,51 +55,51 @@
   <tr>
     <td align="center" width="33.33%">
       <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/why-tech-is-making-everything-worse.png" alt="Why Tech is Making Everything Worse thumbnail" width="100%" />
+        <img src="./assets/thumbnails/why-tech-is-making-everything-worse.webp" alt="Why Tech is Making Everything Worse thumbnail" width="100%" />
       </a>
     </td>
     <td align="center" width="33.33%">
       <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/you-should-ditch-music-streaming-a.png" alt="You Should Ditch Music Streaming thumbnail" width="100%" />
+        <img src="./assets/thumbnails/you-should-ditch-music-streaming-a.webp" alt="You Should Ditch Music Streaming thumbnail" width="100%" />
       </a>
     </td>
     <td align="center" width="33.33%">
       <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/zasto-su-kladionice-na-svakom-uglu.png" alt="Zasto su kladionice na svakom uglu thumbnail" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%">
-      <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/najveci-skandal-varanja-u-istoriji-saha.png" alt="Najveci Skandal Varanja u Istoriji Saha thumbnail" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="33.33%">
-      <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/i-memorized-1010-digits-of-pi.png" alt="I Memorized 1010 Digits of Pi thumbnail" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="33.33%">
-      <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/dark-truth-about-ishowspeed.jpg" alt="Dark Truth About IShowSpeed thumbnail" width="100%" />
+        <img src="./assets/thumbnails/zasto-su-kladionice-na-svakom-uglu.webp" alt="Zasto su kladionice na svakom uglu thumbnail" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33.33%">
       <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/shorty-me-uci-igrati-steal-a-brainrot.png" alt="Shorty me uci igrati steal a brainrot thumbnail" width="100%" />
+        <img src="./assets/thumbnails/najveci-skandal-varanja-u-istoriji-saha.webp" alt="Najveci Skandal Varanja u Istoriji Saha thumbnail" width="100%" />
       </a>
     </td>
     <td align="center" width="33.33%">
       <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/before-getting-a-tattoo-watch-this-after.png" alt="Before Getting a Tattoo Watch This thumbnail" width="100%" />
+        <img src="./assets/thumbnails/i-memorized-1010-digits-of-pi.webp" alt="I Memorized 1010 Digits of Pi thumbnail" width="100%" />
       </a>
     </td>
     <td align="center" width="33.33%">
       <a href="https://thumbnails.velimirpaleksic.com">
-        <img src="./assets/thumbnails/i-quit-drinking-alcohol-heres-what-happened-after.png" alt="I Quit Drinking Alcohol thumbnail" width="100%" />
+        <img src="./assets/thumbnails/dark-truth-about-ishowspeed.webp" alt="Dark Truth About IShowSpeed thumbnail" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
+      <a href="https://thumbnails.velimirpaleksic.com">
+        <img src="./assets/thumbnails/shorty-me-uci-igrati-steal-a-brainrot.webp" alt="Shorty me uci igrati steal a brainrot thumbnail" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://thumbnails.velimirpaleksic.com">
+        <img src="./assets/thumbnails/before-getting-a-tattoo-watch-this-after.webp" alt="Before Getting a Tattoo Watch This thumbnail" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://thumbnails.velimirpaleksic.com">
+        <img src="./assets/thumbnails/i-quit-drinking-alcohol-heres-what-happened-after.webp" alt="I Quit Drinking Alcohol thumbnail" width="100%" />
       </a>
     </td>
   </tr>
@@ -117,14 +117,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://dev.velimirpaleksic.com/projects/pavle-detailing">
-        <img src="./assets/websites/pavle-detailing.jpg" alt="Pavle Detailing website preview" width="100%" />
+        <img src="./assets/websites/pavle-detailing.webp" alt="Pavle Detailing website preview" width="100%" />
       </a>
       <br />
       <sub><b>Pavle Detailing</b></sub>
     </td>
     <td align="center" width="50%">
       <a href="https://dev.velimirpaleksic.com/projects/sveti-petar-dabrobosanski">
-        <img src="./assets/websites/sveti-petar-dabrobosanski.jpg" alt="Sveti Petar Dabrobosanski website preview" width="100%" />
+        <img src="./assets/websites/sveti-petar-dabrobosanski.webp" alt="Sveti Petar Dabrobosanski website preview" width="100%" />
       </a>
       <br />
       <sub><b>Sveti Petar Dabrobosanski</b></sub>
