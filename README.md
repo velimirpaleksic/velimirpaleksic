@@ -14,7 +14,7 @@
 
 ## What I Do
 
-- **Graphic design** for menus, promotional carousels, product visuals, and small brand assets
+- **Graphic design** for menus, promos, car wraps, and small brand assets
 - **YouTube thumbnail design** for creators, including redesigns and portfolio examples
 - **Business websites** with pricing, case studies, contact flows, and responsive layouts
 - **Small support tools** including internal helpers and utility projects when a workflow needs something extra
