@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="336" height="28" viewBox="0 0 336 28" role="img" aria-label="Open Design Hub">
+  <title>Open Design Hub</title>
+  <rect width="336" height="28" rx="4" fill="#981B1E"/>
+  <rect width="44" height="28" rx="4" fill="#0B0B0B"/>
+  <rect x="40" width="4" height="28" fill="#0B0B0B"/>
+  <g transform="translate(11 2)">
+    <rect x="3" y="3" width="18" height="18" rx="2" ry="2" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="9" cy="9" r="2" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700">
+    <text x="189" y="18">OPEN DESIGN HUB</text>
+  </g>
+</svg>

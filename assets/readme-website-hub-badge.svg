@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="28" viewBox="0 0 348 28" role="img" aria-label="Open Website Hub">
+  <title>Open Website Hub</title>
+  <rect width="348" height="28" rx="4" fill="#981B1E"/>
+  <rect width="44" height="28" rx="4" fill="#0B0B0B"/>
+  <rect x="40" width="4" height="28" fill="#0B0B0B"/>
+  <g transform="translate(10 2)">
+    <path d="m18 16 4-4-4-4" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m6 8-4 4 4 4" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m14.5 4-5 16" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700">
+    <text x="196" y="18">OPEN WEBSITE HUB</text>
+  </g>
+</svg>
